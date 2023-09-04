@@ -9,7 +9,7 @@
 
 #Task: Create an association rule to reveal associations between items in transactional databases.
 
-#Action: Build an association rule model.
+#Action: Build an association rule model in Python.
 
 #Result:
 
